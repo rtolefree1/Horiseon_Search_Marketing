@@ -1,11 +1,12 @@
 # Horiseon_Search_Marketing
 GaTech Web Development Bootcamp Homework 1
+
+**HTML, CSS, and Git: Code Refactor**
+
 ## Link to site 
-[Horiseon_Search_Marketing](https://rtolefree1.github.io/Horiseon_Search_Marketing)
+**[Horiseon_Search_Marketing](https://rtolefree1.github.io/Horiseon_Search_Marketing)**
 
-# 01 HTML, CSS, and Git: Code Refactor
 
-Link to site [Horiseon_Search_Marketing](https://rtolefree1.github.io/Horiseon_Search_Marketing)
 
 ## User Story
 
@@ -29,22 +30,24 @@ THEN I find semantic HTML elements
       [x] remove div header class
       [x] remove div footer class
       [x] removed un-necessary divs
+      
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
     updated CSS files:
-    <dl>
       [x] classes benefit-lead, benefit-brand, benefit-cost to one class : benefit-lead-brand-cost
       [x] classes search-engine-optimization, online-reputation-management, social-media-marketing to one class : search-online-social
-    </dl>
+   
 WHEN I view the icon and image elements
 THEN I find accessible alt attributes
      added
       [x] alt to link areas, and image areas
       [x] alt's contain descriptions
+      
 WHEN I view the heading attributes
 THEN they fall in sequential order
      added
       [x] Updated footer head to h4
+      
 WHEN I view the title element
 THEN I find a concise, descriptive title
      added
