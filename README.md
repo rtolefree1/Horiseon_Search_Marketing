@@ -3,6 +3,8 @@ GaTech Web Development Bootcamp Homework 1
 # Challenge-Module1
 # 01 HTML, CSS, and Git: Code Refactor
 
+Link to site [Horiseon_Search_Marketing](https://rtolefree1.github.io/Horiseon_Search_Marketing)
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
@@ -94,7 +96,7 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
 
 You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-Link to site [Horiseon_Search_Marketing](https://github.com/rtolefree1/Horiseon_Search_Marketing)
+
 
 > **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
 
